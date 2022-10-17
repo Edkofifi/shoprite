@@ -1,2 +1,4 @@
 # shoprite
-An inventory management system
+An inventory management system.
+
+## Functionalities
